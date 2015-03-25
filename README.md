@@ -2,7 +2,10 @@
 
 This is a little 2D game I made to discover Unity.
 
-It is not finished, I would like to add :
+It is a 2 player versus game with asynchronous gameplay.
+There is 2 rounds and the players switch roles after the first round. 
+
+It is not finished yet, I would like to add :
 - better graphics
 - better HUD and menu
 - add round X/2 in game state
