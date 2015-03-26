@@ -2,7 +2,7 @@
 
 This is a little 2D game I made to discover Unity.
 
-It is a 2 player versus game with asynchronous gameplay.
+It is a 2 player versus game with asymmetric gameplay.
 There is 2 rounds and the players switch roles after the first round. 
 
 It is not finished yet, I would like to add :
